@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import ReactDOM from 'react-dom';
 import Counter from './component/counter';
 import UseEffectCounter from './component/use-effect-counter';
